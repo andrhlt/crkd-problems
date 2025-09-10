@@ -1,0 +1,6 @@
+id: string-reverse
+title: Reverse a String
+type: basic
+tags: [typescript, strings, easy]
+environment:
+  runtime: node:18

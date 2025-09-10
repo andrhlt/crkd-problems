@@ -1,0 +1,13 @@
+{
+  "name": "string-reverse",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx solution.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.1.2",
+    "typescript": "^5.2.2",
+    "@types/node": "^20.8.7"
+  }
+}

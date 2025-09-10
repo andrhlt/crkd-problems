@@ -1,0 +1,14 @@
+{
+  "string-reverse": {
+    "title": "Reverse a string",
+    "type": "basic",
+    "tags": [
+      "typescript",
+      "strings",
+      "easy"
+    ],
+    "environment": {
+      "runtime": "node:18"
+    }
+  }
+}
