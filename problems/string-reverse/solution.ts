@@ -1,4 +1,4 @@
-export function reverseString(input: string): string {
+export default function reverseString(input: string): string {
   // Your code here
   return '';
 }

@@ -1,5 +1,5 @@
 {
   "name": "negative numbers",
-  "input": "-5 3",
-  "expected": "-2"
+  "args": [-5, 3],
+  "expected": -2
 }

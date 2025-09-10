@@ -1,5 +1,5 @@
 {
   "name": "zero addition",
-  "input": "0 0",
-  "expected": "0"
+  "input": [0, 0],
+  "expected": 0
 }
