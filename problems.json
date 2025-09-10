@@ -1,4 +1,16 @@
 {
+  "add-numbers": {
+    "title": "Add numbers",
+    "type": "basic",
+    "tags": [
+      "typescript",
+      "numbers",
+      "easy"
+    ],
+    "environment": {
+      "runtime": "node:18"
+    }
+  },
   "string-reverse": {
     "title": "Reverse a string",
     "type": "basic",
