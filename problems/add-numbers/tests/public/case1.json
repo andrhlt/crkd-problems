@@ -1,0 +1,5 @@
+{
+  "name": "basic addition",
+  "input": "2 3",
+  "expected": "5"
+}

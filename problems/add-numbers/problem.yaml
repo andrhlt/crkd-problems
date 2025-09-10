@@ -1,0 +1,6 @@
+id: add-numbers
+title: Add Two Numbers
+tags: [javascript, math, beginner]
+type: basic
+environment:
+  runtime: node:18
