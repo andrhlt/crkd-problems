@@ -8,7 +8,7 @@
       "easy"
     ],
     "environment": {
-      "runtime": "node:18"
+      "runtime": "node:22"
     }
   },
   "string-reverse": {
@@ -20,7 +20,7 @@
       "easy"
     ],
     "environment": {
-      "runtime": "node:18"
+      "runtime": "node:22"
     }
   }
 }
