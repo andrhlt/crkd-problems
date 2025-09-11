@@ -1,7 +1,7 @@
 import { readFileSync } from 'fs';
 
-function reverseString(a: number, b: number): number {
-  return a + b;
+function reverseString(s: string): string {
+  return ''
 }
 
 const testCase = JSON.parse(readFileSync(process.argv[2], 'utf8'));
