@@ -3,4 +3,4 @@ title: Add Two Numbers
 tags: [javascript, math, beginner]
 type: basic
 environment:
-  runtime: node:18
+  runtime: node:22
