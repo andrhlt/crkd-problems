@@ -1,5 +1,4 @@
 {
-  "name": "empty string",
   "args": [""],
   "expected": ""
 }

@@ -1,5 +1,4 @@
 {
-  "name": "basic string",
   "args": ["hello world"],
   "expected": "dlrow olleh"
 }

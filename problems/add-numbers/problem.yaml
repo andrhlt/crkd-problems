@@ -1,6 +1,6 @@
 id: add-numbers
 title: Add Two Numbers
-tags: [javascript, math, beginner]
+tags: [python, math, beginner]
 type: basic
 environment:
-  runtime: node:22
+  runtime: python:3.12

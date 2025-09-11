@@ -1,5 +1,4 @@
 {
-  "name": "zero addition",
   "args": [0, 0],
   "expected": 0
 }

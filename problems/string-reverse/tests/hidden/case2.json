@@ -1,5 +1,4 @@
 {
-  "name": "special characters",
   "args": ["hello, world!"],
   "expected": "!dlrow ,olleh"
 }

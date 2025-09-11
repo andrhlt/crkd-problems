@@ -3,12 +3,12 @@
     "title": "Add numbers",
     "type": "basic",
     "tags": [
-      "typescript",
+      "python",
       "numbers",
       "easy"
     ],
     "environment": {
-      "runtime": "node:22"
+      "runtime": "python:3.12"
     }
   },
   "string-reverse": {

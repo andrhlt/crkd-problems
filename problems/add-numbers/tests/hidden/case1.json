@@ -1,5 +1,4 @@
 {
-  "name": "negative numbers",
   "args": [-5, 3],
   "expected": -2
 }
