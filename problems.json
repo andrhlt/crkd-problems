@@ -18,16 +18,14 @@
       "python",
       "arrays",
       "hash-table",
-      "medium"
+      "easy"
     ],
     "environment": {
       "runtime": "python:3.12"
     },
     "complexity": {
       "time": "O(n)",
-      "space": "O(n)",
-      "enabled": true,
-      "tolerance": 1
+      "space": "O(n)"
     }
   }
 }
