@@ -1,6 +1,6 @@
 id: add-numbers
 title: Add Two Numbers
 tags: [python, math, beginner]
-type: basic
+type: dsa
 environment:
   runtime: python:3.12

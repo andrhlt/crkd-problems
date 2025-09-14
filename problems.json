@@ -1,7 +1,7 @@
 {
   "add-numbers": {
     "title": "Add numbers",
-    "type": "basic",
+    "type": "dsa",
     "tags": [
       "python",
       "numbers",
