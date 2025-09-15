@@ -2,5 +2,4 @@ id: add-numbers
 title: Add Two Numbers
 tags: [python, math, beginner]
 type: dsa
-environment:
-  runtime: python:3.12
+runtime: python:3.12

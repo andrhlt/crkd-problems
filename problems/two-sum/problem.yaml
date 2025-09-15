@@ -2,8 +2,4 @@ id: two-sum
 title: Two Sum
 type: dsa
 tags: [python, arrays, hash-table, easy]
-environment:
-  runtime: python:3.12
-complexity:
-  time: "O(n)"
-  space: "O(n)"
+runtime: python:3.12
