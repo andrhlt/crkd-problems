@@ -1,6 +1,5 @@
 {
   "add-numbers": {
-    "title": "Add numbers",
     "type": "dsa",
     "tags": [
       "python",
@@ -10,7 +9,6 @@
     "runtime": "python:3.12"
   },
   "two-sum": {
-    "title": "Two Sum",
     "type": "dsa",
     "tags": [
       "python",

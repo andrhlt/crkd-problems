@@ -1,5 +1,4 @@
-id: add-numbers
-title: Add Two Numbers
+name: add-numbers
 tags: [python, math, easy]
 type: dsa
 runtime: python:3.12

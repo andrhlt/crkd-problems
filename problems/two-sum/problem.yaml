@@ -1,5 +1,4 @@
-id: two-sum
-title: Two Sum
+name: two-sum
 type: dsa
 tags: [python, arrays, hash-table, easy]
 runtime: python:3.12

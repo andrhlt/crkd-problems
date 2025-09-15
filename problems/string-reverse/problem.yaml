@@ -1,5 +1,4 @@
-id: string-reverse
-title: Reverse a String
+name: string-reverse
 type: basic
 tags: [typescript, strings, easy]
 runtime: node:22
