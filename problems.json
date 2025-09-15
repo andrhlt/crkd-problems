@@ -22,10 +22,6 @@
     ],
     "environment": {
       "runtime": "python:3.12"
-    },
-    "complexity": {
-      "time": "O(n)",
-      "space": "O(n)"
     }
   }
 }
