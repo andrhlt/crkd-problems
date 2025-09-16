@@ -2,7 +2,7 @@ name: string-reverse
 type: basic
 tags: [typescript, strings, easy]
 runtime: node:22
-test:
+tests:
   public:
     - path: case1.json
       size: 11

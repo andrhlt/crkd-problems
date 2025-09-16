@@ -2,7 +2,7 @@ name: add-numbers
 tags: [python, math, easy]
 type: dsa
 runtime: python:3.12
-test:
+tests:
   public:
     - path: case1.json
       size: null
