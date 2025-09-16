@@ -2,3 +2,14 @@ name: string-reverse
 type: basic
 tags: [typescript, strings, easy]
 runtime: node:22
+test:
+  public:
+    - path: case1.json
+      size: 11
+    - path: case2.json
+      size: 0
+  hidden:
+    - path: case1.json
+      size: 5
+    - path: case2.json
+      size: 20

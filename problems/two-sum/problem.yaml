@@ -2,3 +2,18 @@ name: two-sum
 type: dsa
 tags: [python, arrays, hash-table, easy]
 runtime: python:3.12
+test:
+  public:
+    - path: case1.json
+      size: 10
+    - path: case2.json
+      size: 100
+    - path: case3.json
+      size: 1000
+    - path: case4.json
+      size: 10000
+  hidden:
+    - path: case1.json
+      size: 5
+    - path: case2.json
+      size: 50

@@ -3,6 +3,13 @@ tags: [python, math, easy]
 type: dsa
 runtime: python:3.12
 test:
+  public:
+    - path: case1.json
+      size: null
+    - path: case2.json
+      size: null
   hidden:
-    - case1.json
-    - case2.json
+    - path: case1.json
+      size: null
+    - path: case2.json
+      size: null
