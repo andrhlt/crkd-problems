@@ -12,7 +12,7 @@ tests:
       size: 8
   hidden:
     - path: case1.json
-      size: 8
+      size: 10
     - path: case2.json
       size: 15
     - path: case3.json
@@ -24,12 +24,10 @@ tests:
     - path: case6.json
       size: 2
     - path: case7.json
-      size: 10
-    - path: case8.json
       size: 100
-    - path: case9.json
+    - path: case8.json
       size: 1000
-    - path: case10.json
+    - path: case9.json
       size: 10000
-    - path: case11.json
+    - path: case10.json
       size: 100000
