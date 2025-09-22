@@ -22,7 +22,7 @@ tests:
     - path: case5.json
       size: 2
     - path: case6.json
-      size: 2
+      size: 6
     - path: case7.json
       size: 100
     - path: case8.json
